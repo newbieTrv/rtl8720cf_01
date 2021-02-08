@@ -1,0 +1,21 @@
+/home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/src/tuya_device_application_is.o: \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/src/tuya_device.c \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/include/tuya_device.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_error_code.h \
+ ../../../tuya_common/include/driver/tuya_gpio.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_types.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_iot_config.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_error_code.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/uni_log.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_types.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_iot_com_api.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_com_defs.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/ty_cJSON.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_wifi_defs.h \
+ ../../../tuya_os_adapter/include/system/tuya_hal_system.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_iot_wifi_api.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_cloud_wifi_defs.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/../../sdk/include/tuya_iot_com_api.h \
+ /home/fx/fx/rtl8720cf/ty_iot_wf_bt_sdk_rtos_rtl8720cf_ameba_1.0.13/demos/tuya_8720cf_1plug_demo/include/tuya_hard_table.h \
+ ../../../tuya_common/include/driver/tuya_key.h \
+ ../../../tuya_common/include/driver/tuya_gpio.h

@@ -1,0 +1,7 @@
+tuya_dp_upload.c:24:14:tuya_upload_alloc_space	32	static
+tuya_dp_upload.c:67:6:tuya_upload_delete_space	24	static
+tuya_dp_upload.c:103:6:tuya_upload_dp_enum_frame	32	static
+tuya_dp_upload.c:135:6:tuya_upload_dp_bool_frame	32	static
+tuya_dp_upload.c:167:6:tuya_upload_dp_value_frame	32	static
+tuya_dp_upload.c:199:6:tuya_upload_dp_string_frame	24	static
+tuya_dp_upload.c:241:6:tuya_upload_dp_bitmap_frame	32	static
